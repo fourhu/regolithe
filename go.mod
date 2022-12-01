@@ -51,4 +51,4 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
 
-replace go.aporeto.io/regolithe => github.com/fourhu/regolithe v0.0.0-20220908110544-35fc54ca76b1
+replace go.aporeto.io/regolithe => ./
